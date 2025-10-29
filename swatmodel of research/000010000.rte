@@ -1,0 +1,30 @@
+ .rte file Subbasin: 1 2021/3/18 0:00:00 ArcSWAT 2012.10_5.24
+    399.864700    | CHW2 : Main channel width [m]
+      3.084708    | CHD : Main channel depth [m]
+      0.008913    | CH_S2 : Main channel slope [m/m]
+     34.656200    | CH_L2 : Main channel length [km]
+      0.040548    | CH_N2 : Manning's nvalue for main channel
+     42.226600    | CH_K2 : Effective hydraulic conductivity [mm/hr]
+      0.475649    | CH_COV1: Channel erodibility factor
+      0.608011    | CH_COV2 : Channel cover factor
+        45.545    | CH_WDR : Channel width:depth ratio [m/m]
+      1.000000    | ALPHA_BNK : Baseflow alpha factor for bank storage [days]
+          0.00    | ICANAL : Code for irrigation canal
+     24.566920    | CH_ONCO : Organic nitrogen concentration in the channel [ppm]
+      0.000000    | CH_OPCO : Organic phosphorus concentration in the channel [ppm]
+      5.000000    | CH_SIDE : Change in horizontal distance per unit vertical distance
+      1.100000    | CH_BNK_BD : Bulk density of channel bank sediment (g/cc)
+      1.100000    | CH_BED_BD : Bulk density of channel bed sediment (g/cc)
+      0.001000    | CH_BNK_KD : Erodibility of channel bank sediment by jet test (cm3/N-s)
+      3.750000    | CH_BED_KD : Erodibility of channel bed sediment by jet test (cm3/N-s)
+          0.00    | CH_BNK_D50 : D50 Median particle size diameter of channel bank sediment (��m)
+          0.00    | CH_BED_D50 : D50 Median particle size diameter of channel bed sediment (��m)
+    384.432000    | CH_BNK_TC : Critical shear stress of channel bank (N/m2)
+    132.190000    | CH_BED_TC : Critical shear stress of channel bed (N/m2)
+   1.00   0.80   0.13   0.00   0.61   0.67   1.00   0.00   0.62   0.31   0.77   1.00   
+             0    | CH_EQN : Sediment routing methods
+           -3.00    | PRF :  Peak rate adjustment factor for sediment routing in the main channel
+           -0.1000    | SPCON :  Linear parameter for calculating the maximum amount of sediment that can be reentrained during channel sediment routing
+           -3.00    | SPEXP :  Exponent parameter for calculating sediment reentrained in channel sediment routing.
+  1.00  1.00  1.00  1.00  1.00  1.00  1.00  1.00  1.00  1.00  1.00  1.00| HRU_SALT :  Monthly adjustment factors for HRU salt loadings.
+         1.000    |SALT_DEL :  Salt delivery ratio in reach
